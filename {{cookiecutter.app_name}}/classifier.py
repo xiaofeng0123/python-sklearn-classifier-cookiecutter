@@ -289,6 +289,7 @@ if __name__ == '__main__':
     print("Plotting the results")
     plot(results)
    print('hello January 4th')
+   print('hi')
    
    
 
